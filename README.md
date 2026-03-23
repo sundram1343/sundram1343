@@ -75,7 +75,6 @@ js,nodejs,ts,cpp,html,css,express,npm,git,github,linux,ubuntu
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundram1343&theme=default)
 
-(If you prefer different themes or badges, you can customize the URLs above — they are dynamic images from common GitHub README stat services.)
 
 ## Recent Activity
 
