@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-I'm **sundram1343** — a passionate developer from **Delhi** focused on building practical web applications and learning backend systems. 🚀
+I'm **Sundram Sharma** — a passionate developer from **Delhi** focused on building practical web applications and learning backend systems. 🚀
 
 Full-stack mindset • Backend-focused learning • JavaScript & C++ enthusiast
 
