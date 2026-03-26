@@ -23,7 +23,7 @@ Open to collaboration, learning new stacks, and contributing to projects where I
 
 ## Skills & Technologies
 
-js,nodejs,ts,cpp,html,css,express,npm,git,github,linux,ubuntu
+js,nodejs,ts,cpp,html,css,express,npm,git,github,React, React Native
 
 ## Top Projects
 
