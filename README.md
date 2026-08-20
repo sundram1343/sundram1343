@@ -14,7 +14,7 @@ Full-stack mindset • Backend-focused learning • JavaScript & C++ enthusiast
 
 - Location: **Delhi** 📍
 - GitHub: [sundram1343](https://github.com/sundram1343)
-- Public repositories: **10**
+- Public repositories: **17**
 - GitHub account created: **2025-06-10**
 
 I build small to medium web projects (both front-end and back-end), experiment with templates and backend rendering (EJS), and practice algorithms and C++ for problem solving. I enjoy iterating quickly on ideas and shipping working demos — currently focusing on backend fundamentals and improving full-stack workflows.
@@ -23,7 +23,7 @@ Open to collaboration, learning new stacks, and contributing to projects where I
 
 ## Skills & Technologies
 
-js,nodejs,ts,cpp,html,css,express,npm,git,github,React, React Native
+js,nodejs,ts,cpp,html,css,express,npm,git,github,React, React Native, Python
 
 ## Top Projects
 
@@ -59,7 +59,7 @@ js,nodejs,ts,cpp,html,css,express,npm,git,github,React, React Native
 
 ### GitHub Stats 📊
 
-- Public repos: **11**
+- Public repos: **17**
 - Followers: **0**
 - Following: **1**
 
